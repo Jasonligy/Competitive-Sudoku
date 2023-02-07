@@ -149,6 +149,7 @@ def main():
 
     module1 = importlib.import_module(args.first + '.sudokuai')
     module2 = importlib.import_module(args.second + '.sudokuai')
+    print('type')
     player1 = module1.SudokuAI()
     player2 = module2.SudokuAI()
     player1.player_number = 1
