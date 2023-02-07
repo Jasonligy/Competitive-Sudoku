@@ -1,0 +1,3 @@
+team_A4 against_player greedy_player time: 5.0 board_name: boards/random-3x3.txt
+wins: 0.0 losses: 1.0 draws: 0.0
+

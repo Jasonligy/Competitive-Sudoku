@@ -1,0 +1,3 @@
+team30_A2 against_player team30_A1 time: 0.5 board_name: boards/easy-3x3.txt
+wins: 0.7 losses: 0.3 draws: 0.0
+

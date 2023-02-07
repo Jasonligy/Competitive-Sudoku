@@ -1,0 +1,53 @@
+team_A4 against_player greedy_player time: 0.1 board_name: boards/easy-2x2.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.1 board_name: boards/easy-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.1 board_name: boards/hard-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.1 board_name: boards/random-2x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.1 board_name: boards/random-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.1 board_name: boards/random-3x4.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.1 board_name: boards/random-4x4.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/easy-2x2.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/easy-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/hard-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/random-2x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/random-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/random-3x4.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player team30_A2 time: 0.1 board_name: boards/random-4x4.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.5 board_name: boards/easy-2x2.txt
+wins: 0.0 losses: 1.0 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.5 board_name: boards/easy-3x3.txt
+wins: 0.3 losses: 0.7 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.5 board_name: boards/hard-3x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
+
+team_A4 against_player greedy_player time: 0.5 board_name: boards/random-2x3.txt
+wins: 0.5 losses: 0.5 draws: 0.0
